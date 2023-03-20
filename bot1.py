@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import openai
 
 bot_token = '6200885139:AAFrlCeEENOar9MD5j-U_-_6HmSIvCb8CwM'
-openai.api_key = "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"
+openai.api_key = "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"
 
 logging.basicConfig(level=logging.INFO)
 
